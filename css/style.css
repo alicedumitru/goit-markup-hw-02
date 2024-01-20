@@ -1,0 +1,255 @@
+  
+   
+  .website-logo  {
+    font-family: "Raleway", sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    color: #4D5AE5; 
+  }
+
+  .logo {
+    font-family: "Raleway", sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    color: #2E2F42 ;
+  }
+
+  .nav-section { 
+    font-family: "Roboto";
+    font-weight: 500;
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: 2%;
+  color: #2E2F42;
+  }
+
+  .main-section {
+    background-color: #2E2F42;
+    height: 600px; 
+    width: 1440px;
+  }
+
+  .hero-title {
+    font-family: "Roboto";
+    font-weight: 700;
+    font-size: 56px;
+    letter-spacing: 2%;
+    line-height: 60px;
+    color: #fff;
+    text-align: center;
+    padding-left: 496px;
+    padding-top: 120px;
+    padding-right: 496px;
+    padding-bottom: 120px;
+   
+  }
+
+  .hero-btn {
+    cursor: pointer;
+    font-family: "Roboto";
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 4%;
+    background-color: #4D5AE5; 
+    color: #fff;
+    
+     
+    
+  }
+
+  .section-titles {
+   font-family: "Roboto";
+   font-weight: 500;
+   font-size: 20px;
+   letter-spacing: 2%;
+   color: #2E2F42;
+
+  }
+
+  .section-descriptions {
+ font-family: "Roboto";
+ font-weight: 400;
+ font-size: 16px;
+ line-height: 24px;
+ letter-spacing: 2%;
+ color: #434455;
+
+  }
+
+  .about-us-section {
+
+    font-family: "Roboto";
+    font-weight: 700 ;
+    font-size: 36px;
+    letter-spacing: 2%;
+    color: #2E2F42;
+  }
+
+  .team-names{
+    font-family: "Roboto";
+    font-weight: 500 ;
+    font-size: 20px ;
+    letter-spacing: 2%;
+    color: #2E2F42;
+  }
+
+  .team-work {
+    font-family: "Roboto";
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 2%;
+    color: #434455;
+
+
+  }
+
+  .footer-text {
+    font-family: "Roboto";
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 2%;
+    color: #F4F4FD;
+
+  }
+
+  .footer-background {
+    background-color: #2E2F42 ;
+  }
+
+
+  .contact-section {
+    font-family: "Roboto";
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 14px;
+    letter-spacing: 2%;
+    color: #2E2F42;
+  }
+
+  .buttons-section  {
+    width: 586px;
+    height: 48px;
+    margin-top: 168px;
+    margin-left: 427px ;
+    text-align: center;
+    cursor: pointer;
+    font-family: "Roboto";
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 4%;
+    margin-right: 24px;
+    margin-top: 12px;
+    color: #4D5AE5;
+  }
+
+  
+  .buttons-section-all{
+  
+    width: 586px;
+    height: 48px;
+    margin-top: 168px;
+    margin-left: 427px ;
+    
+    font-family: "Roboto";
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 4%;
+    padding-right: 24px;
+    padding-top: 12px;
+    color: #ffff;
+
+  }
+
+   
+  .btn-all:hover   {
+    cursor: pointer;
+    background-color: #404BBF;
+    font-family: "Roboto";
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 4%;
+   
+     
+  }
+
+  .btn-website:hover {
+    background-color: #404BBF;
+    font-family: "Roboto";
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 4%;
+    
+
+  }
+
+  .btn-apps:hover {
+    background-color: #404BBF;
+    font-family: "Roboto";
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 4%;
+    
+  }
+
+  .btn-design:hover {
+    background-color: #404BBF;
+    font-family: "Roboto";
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 4%;
+ 
+  }
+
+  .btn-marketing:hover {
+    background-color: #404BBF;
+    font-family: "Roboto";
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 4%;
+  }
+
+  .project-card {
+    width: 360px;
+    height: 300px;
+  }
+
+  .card-content {
+    font-family: "Roboto";
+    font-size: 20px;
+    font-weight: 500;
+    letter-spacing: 2%;
+    color: #2E2F42;
+  }
+
+  .project-content {
+    font-family: "Roboto";
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 2%;
+    color: #434455;
+  }
+
+  .footer-website-logo {
+    font-family: "Raleway", sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    color: #4D5AE5; 
+  }
+
+  .footer-logo {
+    font-family: "Raleway", sans-serif;
+    font-weight: bolder;
+    font-size: 18px;
+    color: #F4F4FD ;
+  }
