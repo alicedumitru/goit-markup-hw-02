@@ -5,7 +5,7 @@
     --font-color:  #434455; 
   }
    
-  .website-logo  {
+  .nav-website-logo  {
     
     font-family: "Raleway", sans-serif;
     font-weight: 800;
@@ -16,7 +16,7 @@
     color: #2E2F42 ;
   }
 
-  .header-logo {
+  .nav-header-logo {
     font-family: "Raleway", sans-serif;
     font-weight: 800;
     font-size: 18px;
@@ -104,10 +104,7 @@
     line-height: 1.07;
     color: #fff;
     text-align: center;
-    padding-left: 496px;
-    padding-top: 120px;
-    padding-right: 496px;
-    padding-bottom: 120px;
+    
    
   }
 
