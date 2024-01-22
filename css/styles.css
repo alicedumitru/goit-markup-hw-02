@@ -72,7 +72,7 @@
 
   .address-link:hover,
   .address-link:focus {
-    color: var(--brand-color);
+    color: #404bbf;
   }
 
   .body-section {
