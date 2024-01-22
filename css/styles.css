@@ -42,7 +42,7 @@
   color: var(--services-font-color);
   font-size: 16px;
   font-weight: 500;
-  line-height: 150%; /* 150% */
+  line-height: 150%;  
   letter-spacing: 0.32px;
 
 }
@@ -65,14 +65,14 @@
      color: var(--fonts-color);
      font-size: 16px;
      font-weight: 400;
-     line-height: 150%; /* 150% */
+     line-height: 150%;  
      letter-spacing: 0.32px;
      text-decoration: none;
   }
 
   .address-link:hover,
   .address-link:focus {
-    color: var(--brand-color)
+    color: var(--brand-color);
   }
 
   .body-section {
