@@ -12,7 +12,7 @@
   }
    
   .nav-website-logo  {
-     color:var(--fonts-color) ;
+     color: var(--services-font-color);
   }
 
   .nav-header-logo {
@@ -22,7 +22,7 @@
     line-height: 1.17 ;
     letter-spacing:  0.54px;
     text-transform: uppercase;
-    color: var(--brand-color); 
+    color: var(--buttons-font);
   }
 
   .link {
@@ -50,7 +50,7 @@
 }
   .nav-link:hover,
   .nav-link:focus { 
-     color: var(--brand-color)
+     color: var(--brand-color);
   
   }
 
@@ -100,7 +100,7 @@
   }
 
   .order-service-btn{
-    
+    cursor: pointer;
     font-family: "Roboto", sans-serif;
     font-weight: 500;
     font-size: 16px;
@@ -126,7 +126,8 @@
    font-size: 20px;
    line-height: 120%;
    letter-spacing: 0.4px;
-    
+   color: var(--services-font-color);
+   text-align: center; 
 
   }
 
@@ -198,7 +199,7 @@
 }
 
 .footer-website-logo {
-   color: var(--buttons-bkcolor)
+   color: var(--buttons-bkcolor);
 }
 
   .footer-additional-description {
