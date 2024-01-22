@@ -7,9 +7,7 @@
     --buttons-bkcolor : #F4F4FD;
     --buttons-font:  #4d5ae5;   
     --services-font-color: #2e2f42; 
-    
-  
-  }
+}
    
   .nav-website-logo  {
      color: var(--services-font-color);
@@ -77,7 +75,7 @@
     color: var(--brand-color)
   }
 
-  .body {
+  .body-section {
     font-family: var(--text-font-family);
     color: var(--fonts-color);
     background-color: var(--background-color);
