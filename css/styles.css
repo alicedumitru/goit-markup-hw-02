@@ -213,14 +213,15 @@
 
   .footer-container{
     background-color: var(--services-font-color);
-  }
+    
+     }
 
   .sec-one-list-of-buttons {
     list-style-type: none;
   }
   
   .sec-one-button {
-    background-color: var(--background-color);
+    background-color: var(--buttons-bkcolor);
     color:  var(--buttons-font);
     font-size: 16px;
     font-weight: 500;
@@ -228,7 +229,7 @@
     letter-spacing: 0.64px;
     text-align: center;
     cursor: pointer;
-    font-family:"Roboto", sans-serif'
+    font-family:"Roboto", sans-serif;
      
 }
    
@@ -262,14 +263,13 @@
   letter-spacing: 0.32px;
 }
 
-  .footer-logo {
+ 
+ .footer-logo {
     font-family: var(--header-font-family);
     font-weight: 800;
     font-size: 18px;
     line-height: 1.17 ;
-    letter-spacing:  0.03em;
+    letter-spacing:  0.54px;
     text-transform: uppercase;
-    color: var(--brand-color); 
-    text-transform: uppercase;
-     
-  }
+    color: var(--buttons-font);
+ }
