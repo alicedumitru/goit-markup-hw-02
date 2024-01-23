@@ -48,7 +48,7 @@
 }
   .nav-link:hover,
   .nav-link:focus { 
-     color: var(--brand-color);
+    color: #404bbf;
   
   }
 
